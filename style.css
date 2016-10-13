@@ -1,0 +1,120 @@
+div#wrapper {
+    width: 1024px;
+    height: 768px;
+    margin: 2em auto;
+}
+
+div#contact {
+    clear: both;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+div#footer {
+    width: 100%;
+    text-align: center;
+    float: left;
+    height: 55px;
+}
+
+div#thumbs {
+    width: 40%;
+    height: 400px;
+    padding: 15px 0px 15px 0px;
+    float: right;
+    text-align: center;
+}
+
+div#mainimg {
+    width: 59%;
+    height: 50%;
+    padding: 15px 0px 15px 0px;
+    float: left;
+    text-align: center;
+}
+
+div#desc {
+    padding: 2px;
+    float: left;
+    height: 20%;
+    width: 59%;
+    text-align: center;
+}
+
+dic#desc h1 {
+    padding: 2px;
+    text-align: center;
+}
+
+div#desc p {
+    text-align: center;
+}
+
+div#thumbs img {
+    border: 1px solid black;
+}
+
+div#mainimg img {
+    border: 1px solid black;
+    width: 447px;
+    text-align: center;
+}
+
+section#main h2 {
+    padding: 50px 0px 0px 0px;
+    font-size: 2em;
+    text-align: center;
+}
+
+section#main h3 {
+    padding: 60px 30px 10px 0px;
+}
+
+section#language {
+    text-align: center;
+}
+
+section#language ul {
+    font-size: 90%;
+    padding: 4px 0px 0px 0px;
+    border: 0px;
+    margin: 0px;
+    float: left;
+    width: 24%;
+}
+
+section#main ul li {
+    font-size: 120%;
+    list-style-type: none;
+    padding-bottom: 4px;
+    padding-left: 5px;
+}
+
+section#navigation {
+    width: 100%;
+    padding: 0 0 0 0;
+    text-align: center;
+}
+
+section#main {
+    width: 100%;
+    height: 715px;
+    float: left;
+}
+
+section#open {
+    width: 50%;
+    float: left;
+    padding: 50px 0 0 0;
+}
+
+section#fee {
+    width: 50%;
+    float: right;
+    padding: 50px 0 0 0;
+}
+
+img#imgCover {
+    height: 99%;
+}
