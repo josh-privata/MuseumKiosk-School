@@ -21,7 +21,9 @@
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [License](#license)
+
 ## Synopsis
+
 The Museum of Science and Technology (SAT) have requested the design and implementation of a web based
 touch-enabled kiosk system. This system must provide an accessible interface to visitors that will allow them to
 obtain an overview of the museum layout and find details of the exhibits they intend to visit.
@@ -31,7 +33,11 @@ obtain an overview of the museum layout and find details of the exhibits they in
 + An image of each artifact must be available to the visitors
 + A separate page must be provided for opening hours and entrance fee's
 
+
+**[Click here to view a demo of this website](https://www.joshcannons.com/kiosk/)**
+
 ## Install
+
 First, make a directory to install the files to and change to that directory using :
 
 ```bash
@@ -45,6 +51,7 @@ $ git clone https://github.com/josh-privata/MuseumKiosk.git
 ```
 
 ## Usage
+
 To use this application simply view the 'main.html' file in a web browser.
 
 Assuming you are still in the museumkiosk directory, this can be done from the terminal using the
